@@ -1,0 +1,3 @@
+.github/
+.npmignore
+prepend-protocol.readable.js

@@ -1,0 +1,27 @@
+{
+  "name": "prepend-protocol",
+  "version": "1.0.0",
+  "description": "Add protocols to URLs",
+  "main": "prepend-protocol.js",
+  "exports": {
+    "import": "./prepend-protocol.js",
+    "require": "./prepend-protocol.cjs"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Axorax/prepend-protocol.js.git"
+  },
+  "keywords": [
+    "add-protocol",
+    "protocol",
+    "prepend-protocol",
+    "prepend-https"
+  ],
+  "author": "Axorax",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Axorax/prepend-protocol.js/issues"
+  },
+  "homepage": "https://github.com/Axorax/prepend-protocol.js#readme"
+}
